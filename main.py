@@ -70,7 +70,7 @@ class Solution:
         a = []
         while ans:
             x = ans.popleft()
-            ab = []
+            ab =
             while x:
                 k = unhash(x.pop(), len(beginWord))
                 ab.append(k)
