@@ -17,5 +17,5 @@ print(s[1::3])
 print(s[:5:3])
 print(s[::-2])
 
-s2 = 'H' + s[1:]
-print(s2)
+s1 = 'H' + s[1:]
+print(s1)
