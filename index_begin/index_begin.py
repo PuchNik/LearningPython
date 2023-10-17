@@ -18,4 +18,4 @@ print(s[:5:3])
 print(s[::-2])
 
 s2 = 'H' + s[1:]
-print(s3)
+print(s2)
