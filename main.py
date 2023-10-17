@@ -75,6 +75,6 @@ class Solution:
                 k = unhash(x.pop(), len(beginWord))
                 ab.append(k)
             a.append(ab)
-        return a
+        return b
     
 
