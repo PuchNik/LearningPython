@@ -38,7 +38,7 @@ class Solution:
             x = q.popleft()
             h = x[0]
             if h == f:
-                s = x[]
+                s = x[1]
                 break
             else:
                 c = 1
@@ -75,6 +75,6 @@ class Solution:
                 k = unhash(x.pop(), len(beginWord))
                 ab.append(k)
             a.append(ab)
-        return b
+        return a
     
 
