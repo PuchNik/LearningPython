@@ -38,7 +38,7 @@ class Solution:
             x = q.popleft()
             h = x[0]
             if h == f:
-                s = x[1]
+                s = x[]
                 break
             else:
                 c = 1
