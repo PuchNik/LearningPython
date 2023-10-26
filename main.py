@@ -76,5 +76,4 @@ class Solution:
                 ab.append(k)
             a.append(ab)
         return a
-    
 
