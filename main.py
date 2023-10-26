@@ -77,3 +77,4 @@ class Solution:
             a.append(ab)
         return a
 
+print(a)
