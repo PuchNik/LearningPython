@@ -40,18 +40,13 @@
 # del a[0]
 # print(b)
 #
-#
-# lst = input()
-# print(lst)
-#
-# lst2 = lst.split()
-# print(lst2)
-#
-# lst = input().split()
-# print(lst)
 
 
-
+lst = str(input('Enter the values in list: '))
+lst.split(' ')
+print(lst)
+lst = int(lst)
+print(lst)
 
 
 
